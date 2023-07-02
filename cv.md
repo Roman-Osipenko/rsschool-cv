@@ -2,4 +2,4 @@
 
 Номер телефона
 
-github: [https://github.com/Roman-Osipenko](https://github.com/Roman-Osipenko)https://github.com/Roman-Osipenko
+github: <i>https://github.com/Roman-Osipenko<i>
